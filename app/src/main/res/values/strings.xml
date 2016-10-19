@@ -1,0 +1,140 @@
+<resources>
+    <string name="app_name">Relax-Mate</string>
+    <string-array name="Gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+    </string-array>
+
+
+    <string-array name="Coffee">
+        <item>Cappuccino/Short(235ml)</item>
+        <item>Cappuccino/Tall(235ml)</item>
+        <item>Flat white/Short(235ml)</item>
+        <item>Flat white/Tall(355ml)</item>
+        <item>Longblack/Short(235ml)</item>
+        <item>Longblack/Tall(355ml)</item>
+        <item>Mocchaccino/Short(235ml)</item>
+        <item>Mocchaccino/Tall(355ml)</item>
+        <item>From ground coffee beans, espresso style@ (285ml)</item>
+    </string-array>
+
+
+    <string-array name="Tea">
+        <item>Black Tea(500ml)</item>
+        <item>Green Tea(500ml)</item>
+    </string-array>
+
+    <string-array name="Energydrink">
+        <item>V(300ml)</item>
+        <item>V(500ml)</item>
+        <item>Powerade Fuel Plus(300ml)</item>
+        <item>Powerade Fuel Plus(500ml)</item>
+        <item>Rockstar(300ml)</item>
+        <item>Rockstar(500ml)</item>
+        <item>Red Bull(300ml)</item>
+        <item>Red Bull(500ml)</item>
+        <item>Monster(300ml)</item>
+        <item>Monster(500ml)</item>
+        <item>Mother(300ml)</item>
+        <item>Mother(500ml)</item>
+    </string-array>
+    <string-array name="Sodas">
+        <item>Coke Zero(375ml)</item>
+        <item>Coke Zero(500ml)</item>
+
+        <item>Coca Cola(375ml)</item>
+        <item>Coca Cola(500ml)</item>
+
+        <item>Mountain Dew(Aus)(375ml)</item>
+        <item>Mountain Dew(Aus)(500ml)</item>
+
+        <item>Mountain Dew(NZ)(375ml)</item>
+        <item>Mountain Dew(NZ)(500ml)</item>
+
+        <item>Pepsi(375ml)</item>
+        <item>Pepsi(500ml)</item>
+
+        <item>Pepsi Max(375ml)</item>
+        <item>Pepsi Max(500ml)</item>
+
+
+    </string-array>
+
+    <string-array name="Coffee1">
+
+        <item>Cappuccino 101.9mg/100ml </item>
+        <item>Flat White 86.9mg/100ml </item>
+        <item>Long Black 74.7mg/100ml</item>
+
+    </string-array>
+
+
+    <string-array name="Tea1">
+
+        <item>Black Tea 22.5mg/100ml</item>
+        <item>Green tea 12.1mg/100ml</item>
+
+    </string-array>
+
+    <string-array name="SoftDrinks1">
+
+        <item>Coca Cola 9.7mg/100ml</item>
+        <item>Mountain Dew  15mg/100</item>
+        <item>Diet Coke 9.7mg/100ml</item>
+        <item>Coke Zero 9.6mg/100ml</item>
+
+    </string-array>
+
+
+    <string-array name="EnergyDrinks1">
+
+        <item>Red Bull - 32mg/100ml</item>
+
+    </string-array>
+
+    <string-array name="Chocolate1">
+
+        <item>Chocolate drink with added milk solids 20mg/100ml</item>
+        <item>Chocolate drink with high cocoa solids 59mg/100ml</item>
+
+    </string-array>
+
+
+    <string-array name="Type">
+        <item>Coffee</item>
+        <item>Chocolate</item>
+        <item>Tea</item>
+        <item>Energy-Drink</item>
+    </string-array>
+    <string name="title_activity_park__map">Map</string>
+    <string name="title_activity_maps">Map</string>
+
+
+    <string-array name="Chocolate">
+
+        <item>Awake Caffeinated Chocolate Bar</item>
+        <item>Awake Caffeinated Chocolate Bites</item>
+        <item>Starbucks Hot Chocolate</item>
+        <item>Hersheys Special Dark Chocolate Bar</item>
+        <item>Hersheys—Milk Chocolate Bar</item>
+        <item>Silk Chocolate Soymilk </item>
+        <item>Hersheys Chocolate Low fat Milk, bottle</item>
+    </string-array>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+
+</resources>
